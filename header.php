@@ -8,4 +8,7 @@
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
 </head>
+    <header>
+        <h1>Acccueil</h1>
+    </header>
 <body>
