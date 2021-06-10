@@ -7,3 +7,7 @@ function getElement() {
 function getOnTitle($title) {
     return "<h1>$title</h1>";
 }
+
+function getCommit() {
+    return "test commit";
+}
